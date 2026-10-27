@@ -39,7 +39,7 @@
 
 **WIPWN** is an ultra-fast, responsive wireless penetration testing suite built specifically for Android devices running **Termux** (with Root) and Linux systems. It executes automated **Pixie Dust WPS attacks** and online PIN brute-force recovery without requiring an external monitor-mode Wi-Fi dongle on supported internal chipsets.
 
-Fully optimized for **Android 12, 13, 14, 15** with native compatibility for **KernelSU**, **Magisk**, and **APatch**.
+Fully optimized for **Android 7-12, 13, 14, 15, 16, 17** with native compatibility for **KernelSU**, **Magisk**, and **APatch**.
 
 ---
 
@@ -255,25 +255,25 @@ Watch a full step-by-step video setup and demonstration on Telegram:
 
 ### 1. Wi-Fi Scanning in Progress After Launching the Tool
 <p align="center">
-  <img src="https://gitlab.com/ShTasrif/wipwn/-/raw/main/images/scanning-wifi.png" alt="Wi-Fi scanning in progress after launching the tool" width="800">
+  <img src="https://raw.githubusercontent.com/cybershbd/wipwn/refs/heads/main/images/scanning-wifi.png" alt="Wi-Fi scanning in progress after launching the tool" width="800">
 </p>
 
 ### 2. Available Networks Detected After Scan Completion
 <p align="center">
-  <img src="https://gitlab.com/ShTasrif/wipwn/-/raw/main/images/founded-wps-ssid.png" alt="Available networks detected after scan completion" width="800">
+  <img src="https://raw.githubusercontent.com/cybershbd/wipwn/refs/heads/main/images/founded-wps-ssid.png" alt="Available networks detected after scan completion" width="800">
 </p>
 
 ### 3. Successful WPS PIN & Wi-Fi Password Recovery via Pixie Dust Attack
 <p align="center">
-  <img src="https://gitlab.com/ShTasrif/wipwn/-/raw/main/images/pixiedust-success.png" alt="Successful WPS PIN and Wi-Fi password recovery via Pixie Dust attack" width="800">
+  <img src="https://raw.githubusercontent.com/cybershbd/wipwn/refs/heads/main/images/pixiedust-success.png" alt="Successful WPS PIN and Wi-Fi password recovery via Pixie Dust attack" width="800">
 </p>
 
 ### 4. Successful Authentication Using a Custom PIN
 <p align="center">
-  <img src="https://gitlab.com/ShTasrif/wipwn/-/raw/main/images/custompin-success.png" alt="Successful authentication using a custom PIN" width="800">
+  <img src="https://raw.githubusercontent.com/cybershbd/wipwn/refs/heads/main/images/custompin-success.png" alt="Successful authentication using a custom PIN" width="800">
 </p>
 
 ### 5. "wlan0 Not Found" Error When Hotspot is Disabled
 <p align="center">
-  <img src="https://gitlab.com/ShTasrif/wipwn/-/raw/main/images/hotspot-off-issue.png" alt="wlan0 not found error when hotspot is disabled" width="800">
+  <img src="https://raw.githubusercontent.com/cybershbd/wipwn/refs/heads/main/images/hotspot-off-issue.png" alt="wlan0 not found error when hotspot is disabled" width="800">
 </p>
